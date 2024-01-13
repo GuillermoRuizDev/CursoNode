@@ -6,12 +6,12 @@
 
 1. **Clonar el Repositorio:**
     ```bash
-    git clone https://github.com/tu-usuario/repo-awesome.git
+    git clone https://github.com/GuillermoRuizDev/CursoNode.git
     ```
 
 2. **Navegar a la Carpeta Bck:**
     ```bash
-    cd repo-awesome/Bck
+    cd CursoNode/Tarea 2/Bck
     ```
 
 3. **Instalar Dependencias:**
@@ -47,7 +47,7 @@
    Esto iniciará el servidor de desarrollo del frontend. Después de un breve momento, podrás acceder a la aplicación en tu navegador.
 
 9. **Explorar la Aplicación:**
-    Abre tu navegador y visita [http://localhost:3000](http://localhost:3000) para explorar la aplicación Awesome.
+    Abre tu navegador y visita [http://localhost:5173](http://localhost:5173) para explorar la aplicación Awesome.
 
 ¡Listo! Ahora deberías tener el backend y el frontend del repositorio Awesome funcionando localmente en tu máquina. ¡Diviértete explorando todas las características asombrosas que este proyecto tiene para ofrecer!
 
